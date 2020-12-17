@@ -1,0 +1,11 @@
+1 - Quais tecnologias usou? 
+R: Utilizei React, Javascript, HTML, CSS e Ant Design.
+
+2 - Onde encontrou mais dificuldade?
+R: Foi feito a sugestão de consumir os dados a partir do banco de dados, mas como trabalho atualmente e o meu tempo é curto resolvi fazer diretamente com o Localstorage para simular um bd e isso gerou alguns bugs inicialmente.
+
+3 - O que não conseguiu fazer (e o motivo pelo qual não conseguiu)
+R: Acredito que consegui fazer tudo corretamente, porem achei um bug que não impossibilita o funcionamento, mas não achei a causa do mesmo.
+
+4 - Qual material de apoio buscou para a execução do exercício
+R: Stack Overflow, Google e projetos ja desenvolvidos.

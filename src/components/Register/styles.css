@@ -1,0 +1,36 @@
+
+.inputDefault{
+
+    width: 100%;
+    
+}
+
+.inputLarge{
+
+	width: 300%;
+	
+}
+
+.inputLow{
+
+	width: 30%;
+	
+}
+
+.espacamento{
+	cursor: pointer;
+	margin-left: 25px;
+
+}
+
+
+#formStyle{
+
+  display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+
+}
